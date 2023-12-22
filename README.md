@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 2023-12-22 / github 페이지를 수정작업 중입니다! 잠시만 기다려 주세요!
-### 완료예정 2023-12-29
+### 2023-12-29 / 완료예정
 
 <!--
 **kclown0/kclown0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
