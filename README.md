@@ -1,3 +1,6 @@
+- 데이터 중심의 개발자 금도영입니다.  
+주로 Python과 Java를 사용하여 소프트웨어를 개발 하였습니다.
+
 <div align=left><h1>📚 STACKS</h1></div>
 
 <div style="text-align: left;">
@@ -23,9 +26,9 @@
 
 ## 프로젝트
 
-1. 기업연계 프로젝트 | 2023.11.09 - 2023.12.15 | [1. project](https://github.com/kclown0/aws-emr-project)
-2. MLops 데이터 파이프라인 구축 프로젝트 | 2023.09.26 - 2023.11.03  | [2. project](https://github.com/kclown0/k8s_project)
-3. 코드스테이츠 Main 프로젝트 | 2022.09 - 2022.10 | [3. project](https://github.com/kclown0/seb39_main_002)
+1. 기업연계 프로젝트 - AWS 클라우드 환경을 활용한 데이터 파이프라인 구축 [[project-link]](https://github.com/kclown0/aws-emr-project)
+2. MLops 데이터 파이프라인 구축 프로젝트 -  쿠베네티스를 활용한 공항데이터 MLops 파이프라인 구축 [[project-link]](https://github.com/kclown0/k8s_project)
+3. 코드스테이츠 Main 프로젝트 - 냉장고 속 재료들을 손쉽게 관리해주고, 재료에 맞는 레시피를 추천해주는 웹 사이트 구축 [[project-link]](https://github.com/kclown0/seb39_main_002)
 
 <!--
 **kclown0/kclown0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
