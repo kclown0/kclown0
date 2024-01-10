@@ -1,5 +1,5 @@
 - 데이터 중심의 개발자 금도영입니다.  
-주로 Python과 Java를 사용하여 소프트웨어를 개발 하였습니다.
+주로 Python과 Java를 사용하여 소프트웨어를 개발하고 있습니다.
 
 <div align=left><h1>📚 STACKS</h1></div>
 
