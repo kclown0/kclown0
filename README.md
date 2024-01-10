@@ -20,6 +20,13 @@
   <br>
 </div>
 
+
+## 프로젝트
+
+1. 기업연계 프로젝트 | 2023.11.09 - 2023.12.15 | [1. project](https://github.com/kclown0/aws-emr-project)
+2. MLops 데이터 파이프라인 구축 프로젝트 | 2023.09.26 - 2023.11.03  | [2. project](https://github.com/kclown0/k8s_project)
+3. 코드스테이츠 Main 프로젝트 | 2022.09 - 2022.10 | [3. project](https://github.com/kclown0/seb39_main_002)
+
 <!--
 **kclown0/kclown0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
